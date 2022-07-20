@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1642433550 source:c:\users\andre\documents\programmi_c\gestione_pass_azienda\main.c
+	"function.h"
+
+1642433541 c:\users\andre\documents\programmi_c\gestione_pass_azienda\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1642414777 source:c:\users\andre\documents\programmi_c\gestione_pass_azienda\anagrafica_dipendenti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"function.h"
+
+1642433633 source:c:\users\andre\documents\programmi_c\gestione_pass_azienda\function_indipendenti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"function.h"
+
+1642418377 source:c:\users\andre\desktop\progetti\gestione_pass_azienda\anagrafica_dipendenti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"function.h"
+
+1642437141 c:\users\andre\desktop\progetti\gestione_pass_azienda\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1642437233 source:c:\users\andre\desktop\progetti\gestione_pass_azienda\function_indipendenti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"function.h"
+
+1658315337 source:c:\users\andre\desktop\progetti\gestione_pass_azienda\main.c
+	"function.h"
+
